@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 
 Here are some of the notable projects I've worked on:
 
-1. [Project Name](link here) - Description
+1. [South Station Departure Tracking](https://github.com/favila2002/MBTA-South-Station-Tracker) -  Live commuter rail departure information for South Station in Boston, MA
 
 ## 💻 Tech Stack:
 
