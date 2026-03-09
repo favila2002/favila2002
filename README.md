@@ -9,7 +9,10 @@ Welcome to my GitHub profile! I'm a passionate full stack software developer wit
 ## Tech Stack:
 
 ## Education
-**Software Engineer | UMass Amherst CICS Alum ('25)**
+
+**University of Massachusetts Amherst** | *B.S. in Computer Science*
+*Manning College of Information and Computer Sciences (CICS)*
+*Class of 2025*
 
 ##Contact Me
 
