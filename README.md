@@ -1,7 +1,7 @@
-# I'm Felipe Avila
+# Hi there!👋 I'm Felipe
 **Software Engineer | UMass Amherst CICS Alum ('25)**
 
-I'm specialized in high-performance applications and architecting scalable system-level solutions
+Welcome to my GitHub profile! I'm specialized in high-performance applications and architecting scalable system-level solutions
 
 ## Projects
 
