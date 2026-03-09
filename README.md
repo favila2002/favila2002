@@ -1,13 +1,15 @@
 # Hi there!👋 I'm Felipe
-**Software Engineer | UMass Amherst CICS Alum ('25)**
 
-Welcome to my GitHub profile! I'm specialized in high-performance applications and architecting scalable system-level solutions
+Welcome to my GitHub profile! I'm a passionate full stack software developer with expertise in creating robust web applications. I love solving complex problems and building scalable solutions that enhance user experiences. I'm currently seeking new opportunities to work on exciting projects and contribute to innovative teams. 
 
 ## Projects
 
 1. [Project Name](link here) - Description
 
 ## Tech Stack:
+
+## Education
+**Software Engineer | UMass Amherst CICS Alum ('25)**
 
 ##Contact Me
 
